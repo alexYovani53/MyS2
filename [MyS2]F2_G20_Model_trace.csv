@@ -1,4 +1,4 @@
 Time(Hours);EntityID;ObjectName;ProcessID;StepName;Action
-0.01;--;--;--;--;The maximum number in system limit for entities of type 'Material1' has been exceeded.
-0.01;--;--;--;--;Possible causes:
+32.8939355681381;Barco.112;Combiner1;4.OnEnteredOutputBuffer;[Assign] BeforeExitingAssignments;Unable to get value of property 'Combiner1.AssignmentsBeforeExiting.AssignmentsBeforeExitingNewValue'.
+32.8939355681381;Barco.112;Combiner1;4.OnEnteredOutputBuffer;[Assign] BeforeExitingAssignments;Referenced definition type 'Material' does not match executing type 'ModelEntity'
 
